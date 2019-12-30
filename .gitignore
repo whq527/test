@@ -32,3 +32,4 @@
 *.app
 /.vs
 /test/.vs/test/v16
+/test/test/Debug
