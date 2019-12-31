@@ -17,3 +17,7 @@ jobs:
       
     - name: Setup MSBuild.exe
       uses: warrenbuckley/Setup-MSBuild@v1
+    
+    - name: MSBuild
+      working-directory: src
+      run: msbuild test.vcxproj
