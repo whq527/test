@@ -17,7 +17,7 @@ namespace UnitTest1
 
 		TEST_METHOD(TestMethod2)
 		{
-			Assert::AreEqual(7, sum(1, 4));
+			Assert::AreEqual(7, sum(3, 4));
 		}
 	};
 }
