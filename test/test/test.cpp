@@ -2,11 +2,12 @@
 //
 
 #include <iostream>
+#include "head.h"
 
 int main()
 {
 	std::cout << "Hello World!\n";
-	int i = ;
+	int a = sum(4, 5);
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

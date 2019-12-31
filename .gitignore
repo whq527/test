@@ -33,3 +33,5 @@
 /.vs
 /test/.vs/test/v16
 /test/test/Debug
+/test/Debug
+/test/UnitTest1/Debug
